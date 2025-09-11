@@ -1,8 +1,8 @@
-# 🌸 안녕하시긔 ✨
+# 🎀 안녕하시긔 🎀
 
 ---
 
-## 👩‍💻 Tech Stack
+## 🪄 Tech Stack
 
 <p align="center">
 <!-- Programming Languages -->
@@ -34,7 +34,7 @@
 
 ---
 
-## 💬 Contact
+## 💌 Contact
 <p align="center">
 <a href="https://github.com/happyuo"><img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:happyuo@naver.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"></a>
