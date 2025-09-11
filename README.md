@@ -1,29 +1,12 @@
 # 🌸 안녕하시긔 🌸
 
----
 
-## 🌟 Fun GIF
 <div align="center">
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlnZzBlOWwwcm1hd3ZsaWpocWJsaGo4bnVudjY3MnFra2JtaGI0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hx48Na3LBp1Dy/giphy.gif" width="400"/>
 
 </div>
 
----
-
-## ✨ About Me
-<div align="center">
-
-**👩‍💻 Fullstack & Game Dev Enthusiast**  
-**🎮 Unity & Rust Lover**  
-**🎨 Figma로 디자인 감각 챙기긔**  
-**📚 항상 성장 중인 코딩 덕후**
-
-</div>
-
----
-
-## 🛠 Tech Stack
 <div align="center">
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -58,10 +41,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-✨ Rinko’s Code Journey Never Stops ✨  
-
-</div>
