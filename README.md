@@ -1,8 +1,4 @@
-# 🌸 안녕하시긔 🌸
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/happyuo/your-repo/main/assets/gif.gif" width="220px">
-</p>
+# 🌸 안녕하시긔 ✨
 
 ---
 
@@ -40,20 +36,10 @@
 
 ## 💬 Contact
 <p align="center">
-<a href="https://github.com/happyuo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="mailto:happyuo@naver.com"><img src="https://img.shields.io/badge/Email-happyuo%40naver.com-FF607F?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/happyuo"><img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:happyuo@naver.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-## 🎀 Fun Corner
-<p align="center">
-✨ 재기 넘치는 GIF 모음 ✨<br>
-<img src="https://raw.githubusercontent.com/happyuo/your-repo/main/assets/fun1.gif" width="120px">
-<img src="https://raw.githubusercontent.com/happyuo/your-repo/main/assets/fun2.gif" width="120px">
-<img src="https://raw.githubusercontent.com/happyuo/your-repo/main/assets/fun3.gif" width="120px">
-</p>
-
-<p align="center">
-💖 **코딩도 하고, 귀여움도 챙기긔!** 💖
-</p>
+✨ **코딩도 하고, 귀여움도 챙기긔!** ✨
