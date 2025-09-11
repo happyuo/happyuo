@@ -1,10 +1,15 @@
 # 🌸 안녕하시긔 🌸
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/happyuo/your-repo/main/assets/gif.gif" width="250px">
+<img src="https://raw.githubusercontent.com/happyuo/your-repo/main/assets/gif.gif" width="220px">
 </p>
 
+---
+
+## 👩‍💻 Tech Stack
+
 <p align="center">
+<!-- Programming Languages -->
 <img src="https://img.shields.io/badge/C-FFB6C1?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C++-FFB6C1?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=java&logoColor=white">
@@ -13,6 +18,7 @@
 </p>
 
 <p align="center">
+<!-- Web / Tools -->
 <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/HTML-FFB6C1?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-FFB6C1?style=for-the-badge&logo=css3&logoColor=white">
@@ -36,4 +42,18 @@
 <p align="center">
 <a href="https://github.com/happyuo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:happyuo@naver.com"><img src="https://img.shields.io/badge/Email-happyuo%40naver.com-FF607F?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+## 🎀 Fun Corner
+<p align="center">
+✨ 재기 넘치는 GIF 모음 ✨<br>
+<img src="https://raw.githubusercontent.com/happyuo/your-repo/main/assets/fun1.gif" width="120px">
+<img src="https://raw.githubusercontent.com/happyuo/your-repo/main/assets/fun2.gif" width="120px">
+<img src="https://raw.githubusercontent.com/happyuo/your-repo/main/assets/fun3.gif" width="120px">
+</p>
+
+<p align="center">
+💖 **코딩도 하고, 귀여움도 챙기긔!** 💖
 </p>
