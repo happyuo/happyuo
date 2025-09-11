@@ -2,7 +2,6 @@
 
 <div align="center">
  
-  <img src="https://media2.giphy.com/media/Hx48Na3LBp1Dy/giphy.gif" width="250px" />
 </div>
 
 <div align="center" style="margin-top: 16px;">
