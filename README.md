@@ -1,18 +1,5 @@
-# 🌸 Hi there, I'm Rinko! 🌸
+# 🌸 안녕하시긔 🌸
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=36&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=🌸+Hi+there,+I'm+Rinko!;✨+Cute+Handwriting+Font+Applied!;🚀+Keep+Coding,+Keep+Growing!)
-
-</div>
-
----
-
-## 🌱 About Me
-- 🔭 Currently learning: Algorithms, Web Dev, Game Dev (Unity)  
-- 💡 Goal: Clean & intuitive code  
-- 🎮 Hobbies: Coding, Games, Music  
-- 🌐 Motto: Keep coding, keep growing ✨
 
 ---
 
@@ -29,16 +16,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=happyuo&theme=radical&hide_border=true)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=happyuo&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happyuo&layout=compact&theme=radical)  
-
-</div>
-
----
 
 ## 🏆 Baekjoon Online Judge
 <div align="center">
@@ -53,8 +30,7 @@
 ## 💬 Contact
 <div align="center">
 
-📫 Email: **your@email.com**  
-🌐 Blog: [링크 넣기]  
+📫 Email: happyuo@naver.com
 
 </div>
 
@@ -62,7 +38,6 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)  
 
 ✨ Rinko’s Code Journey Never Stops ✨  
 
