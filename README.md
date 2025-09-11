@@ -1,11 +1,8 @@
 # 🌸 안녕하시긔 🌸
-<dev>
-
+<div align="center">
 ![GIF](https://media2.giphy.com/media/Hx48Na3LBp1Dy/giphy.gif)
+</div>
 
----
-
-## 💻 Tech Stack
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
   
   <!-- Programming Languages -->
@@ -27,15 +24,16 @@
   
 </div>
 
+---
 
 ## 🏆 Baekjoon Online Judge
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happyuo)](https://solved.ac/happyuo)
-![Mazandi Profile](http://mazandi.herokuapp.com/api?handle=happyuo&theme=warm)
-
+<div align="center"> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happyuo)](https://solved.ac/happyuo)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=happyuo&theme=warm) </div>
 ---
 
 ## 💬 Contact
-
+<div align="center">
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/happyuo)
 [![Email](https://img.shields.io/badge/Email-happyuo%40naver.com-FF607F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:happyuo@naver.com)
+</div>
