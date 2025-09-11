@@ -1,6 +1,5 @@
 # 🎀 안녕하시긔 🎀
 
----
 
 ## 🪄 Tech Stack
 
@@ -24,7 +23,6 @@
 <img src="https://img.shields.io/badge/R-FFB6C1?style=for-the-badge&logo=r&logoColor=white">
 </p>
 
----
 
 ## 🏆 Baekjoon Online Judge
 <p align="center">
@@ -32,14 +30,9 @@
 <img src="http://mazandi.herokuapp.com/api?handle=happyuo&theme=warm">
 </p>
 
----
 
 ## 💌 Contact
 <p align="center">
 <a href="https://github.com/happyuo"><img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:happyuo@naver.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
----
-
-✨ **코딩도 하고, 귀여움도 챙기긔!** ✨
