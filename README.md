@@ -1,20 +1,20 @@
 # 🌸 안녕하시긔 🌸
 
 <div align="center">
-  <!-- GIF -->
+ 
   <img src="https://media2.giphy.com/media/Hx48Na3LBp1Dy/giphy.gif" width="250px" />
 </div>
 
 <div align="center" style="margin-top: 16px;">
-  <!-- Programming Languages & Tools 배지 -->
+  
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-    <!-- Programming Languages -->
+    
     ![C](https://img.shields.io/badge/C-FFB6C1?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++-FFB6C1?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Java](https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=java&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white)
     ![Rust](https://img.shields.io/badge/Rust-FFB6C1?style=for-the-badge&logo=rust&logoColor=white)
-    <!-- Web / Tools -->
+    
     ![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black)
     ![HTML](https://img.shields.io/badge/HTML-FFB6C1?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS](https://img.shields.io/badge/CSS-FFB6C1?style=for-the-badge&logo=css3&logoColor=white)
