@@ -26,7 +26,7 @@
   ![R](https://img.shields.io/badge/R-FFB6C1?style=for-the-badge&logo=r&logoColor=white)
   
 </div>
----
+
 
 ## 🏆 Baekjoon Online Judge
 
