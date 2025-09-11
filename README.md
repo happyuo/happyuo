@@ -1,6 +1,12 @@
 # 🌸 안녕하시긔 🌸
 
----
+
+<div align="center">
+
+![Coding GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlnZzBlOWwwcm1hd3ZsaWpocWJsaGo4bnVudjY3MnFra2JtaGI0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hx48Na3LBp1Dy/giphy.gif)
+
+</div>
+
 
 ## ✨ About Me
 <div align="center">
@@ -31,16 +37,6 @@
 </div>
 
 ---
-
-## 🌟 Fun GIF
-<div align="center">
-
-![Coding GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
-
-</div>
-
----
-
 ## 🏆 Baekjoon Online Judge
 <div align="center">
 
