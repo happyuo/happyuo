@@ -27,9 +27,11 @@
 ## 🏆 Baekjoon Online Judge
 <p align="center">
 <a href="https://solved.ac/happyuo">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=happyuo">
+  <img src="https://img.shields.io/badge/Baekjoon-FFB6C1?style=for-the-badge&logo=baidu&logoColor=white">
 </a>
-<img src="http://mazandi.herokuapp.com/api?handle=happyuo&theme=dark">
+<a href="http://mazandi.herokuapp.com/api?handle=happyuo&theme=warm">
+  <img src="https://img.shields.io/badge/mazandi-FFB6C1?style=for-the-badge&logo=appveyor&logoColor=white">
+</a>
 </p>
 
 
