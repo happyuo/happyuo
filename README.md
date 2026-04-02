@@ -24,12 +24,6 @@
 </p>
 
 
-## 🏆 Baekjoon Online Judge
-<p align="center">
-<a href="https://solved.ac/happyuo"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=happyuo"></a>
-<img src="http://mazandi.herokuapp.com/api?handle=happyuo&theme=warm">
-</p>
-
 
 
 ## 💌 Contact
